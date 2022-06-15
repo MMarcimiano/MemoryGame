@@ -6,7 +6,10 @@ Camily Albres
 
 '''
 
-# Inicio
+
+
+
+
 while True:
     iniciar = int(input("PARA INICIAR DIGITE 1 | PARA SAIR DIGITE 0: "))
     print("")
